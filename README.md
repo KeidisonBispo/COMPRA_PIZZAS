@@ -1,2 +1,5 @@
 # COMPRA_PIZZAS
-keidison-sistema-pizzaria.netlify.app
+
+Link para acessar projeto. 
+
+--->  keidison-sistema-pizzaria.netlify.app
